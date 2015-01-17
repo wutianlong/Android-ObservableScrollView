@@ -199,4 +199,4 @@ CheckList
 - [x] test-finished1
 - [x] test-finished2
 - [] test-not-finished3
-- []  test-not-finished4
+- [] test-not-finished4
