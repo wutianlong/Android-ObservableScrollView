@@ -194,3 +194,8 @@ Please check the [contributing guideline](https://github.com/ksoichiro/Android-O
     See the License for the specific language governing permissions and
     limitations under the License.
 
+CheckList
+===
+- [x] test-finished1
+- [x] test-finished2
+- [] test-not-finished3
